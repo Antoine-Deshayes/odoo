@@ -1,0 +1,7 @@
+[submodule "omd_sale_commission_advanced"]
+	path = omd_sale_commission_advanced
+	url = git@github.com:Omydoo/omd_sale_commission_advanced.git
+[submodule "clients/parresia"]
+	path = clients/parresia
+	url = git@github.com:AdminParresia/parresia.git
+	branch = 19.0
